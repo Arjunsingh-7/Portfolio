@@ -1,4 +1,4 @@
-# Arjun Singh Portfolio
+### Arjun Singh Portfolio ###
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and resume, built using **Next.js** for a fast and modern web experience.
 
@@ -19,7 +19,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 ## Technology Stack
 
 - **Frontend:** Next.js, React, TypeScript  
-- **Styling:** CSS / Tailwind (if used)  
+- **Styling:** CSS / Tailwind  
 - **Deployment:** Vercel  
 
 ---
