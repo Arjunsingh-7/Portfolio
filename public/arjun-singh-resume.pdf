@@ -1,0 +1,233 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Resources 4 0 R
+/Contents 5 0 R
+>>
+endobj
+
+4 0 obj
+<<
+/Font <<
+/F1 6 0 R
+/F2 7 0 R
+>>
+>>
+endobj
+
+5 0 obj
+<<
+/Length 2800
+>>
+stream
+BT
+/F1 24 Tf
+50 720 Td
+(ARJUN SINGH) Tj
+0 -40 Td
+/F2 12 Tf
+(Full Stack Developer | AI & Data Science Enthusiast) Tj
+
+0 -60 Td
+/F1 16 Tf
+(CONTACT INFORMATION) Tj
+0 -25 Td
+/F2 11 Tf
+(Email: arjun.singh@email.com) Tj
+0 -15 Td
+(Phone: +91 9876543210) Tj
+0 -15 Td
+(LinkedIn: linkedin.com/in/arjunsingh) Tj
+0 -15 Td
+(GitHub: github.com/arjunsingh) Tj
+
+0 -40 Td
+/F1 16 Tf
+(EDUCATION) Tj
+0 -25 Td
+/F2 12 Tf
+(Bachelor of Technology in Artificial Intelligence & Data Science) Tj
+0 -15 Td
+/F2 11 Tf
+(Expected Graduation: 2025) Tj
+0 -15 Td
+(CGPA: 8.5/10) Tj
+
+0 -40 Td
+/F1 16 Tf
+(TECHNICAL SKILLS) Tj
+0 -25 Td
+/F2 12 Tf
+(Programming Languages:) Tj
+0 -15 Td
+/F2 11 Tf
+(• JavaScript, TypeScript, Python, Java, C++, SQL) Tj
+
+0 -20 Td
+/F2 12 Tf
+(Frontend Development:) Tj
+0 -15 Td
+/F2 11 Tf
+(• React.js, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap) Tj
+
+0 -20 Td
+/F2 12 Tf
+(Backend Development:) Tj
+0 -15 Td
+/F2 11 Tf
+(• Node.js, Express.js, REST APIs, GraphQL) Tj
+
+0 -20 Td
+/F2 12 Tf
+(Databases:) Tj
+0 -15 Td
+/F2 11 Tf
+(• MongoDB, PostgreSQL, MySQL, Redis) Tj
+
+0 -20 Td
+/F2 12 Tf
+(Cloud & DevOps:) Tj
+0 -15 Td
+/F2 11 Tf
+(• AWS, Docker, Git, GitHub Actions) Tj
+
+0 -40 Td
+/F1 16 Tf
+(EXPERIENCE) Tj
+0 -25 Td
+/F2 12 Tf
+(Software Development Intern | TechCorp Solutions) Tj
+0 -15 Td
+/F2 11 Tf
+(June 2024 - August 2024) Tj
+0 -15 Td
+(• Developed responsive web applications using React.js and Node.js) Tj
+0 -12 Td
+(• Implemented RESTful APIs and integrated third-party services) Tj
+0 -12 Td
+(• Collaborated with cross-functional teams in Agile environment) Tj
+
+0 -25 Td
+/F2 12 Tf
+(Frontend Developer Intern | StartupXYZ) Tj
+0 -15 Td
+/F2 11 Tf
+(January 2024 - May 2024) Tj
+0 -15 Td
+(• Built user-friendly interfaces using React.js and Tailwind CSS) Tj
+0 -12 Td
+(• Optimized application performance and improved loading times by 40%) Tj
+0 -12 Td
+(• Participated in code reviews and maintained coding standards) Tj
+
+0 -40 Td
+/F1 16 Tf
+(KEY PROJECTS) Tj
+0 -25 Td
+/F2 12 Tf
+(E-Commerce Platform) Tj
+0 -15 Td
+/F2 11 Tf
+(• Full-stack web application with React.js, Node.js, and MongoDB) Tj
+0 -12 Td
+(• Features: User authentication, payment integration, admin dashboard) Tj
+0 -12 Td
+(• Technologies: React, Express.js, MongoDB, Stripe API) Tj
+
+0 -20 Td
+/F2 12 Tf
+(Task Management System) Tj
+0 -15 Td
+/F2 11 Tf
+(• Collaborative project management tool with real-time updates) Tj
+0 -12 Td
+(• Built with Next.js, PostgreSQL, and Socket.io) Tj
+0 -12 Td
+(• Features: Team collaboration, file sharing, progress tracking) Tj
+
+0 -20 Td
+/F2 12 Tf
+(AI-Powered Chatbot) Tj
+0 -15 Td
+/F2 11 Tf
+(• Intelligent chatbot using Python, TensorFlow, and Natural Language Processing) Tj
+0 -12 Td
+(• Integrated with web interface using Flask and deployed on AWS) Tj
+0 -12 Td
+(• Achieved 85% accuracy in understanding user queries) Tj
+
+0 -40 Td
+/F1 16 Tf
+(ACHIEVEMENTS) Tj
+0 -25 Td
+/F2 11 Tf
+(• Solved 400+ coding problems on GeeksforGeeks) Tj
+0 -15 Td
+(• Ranked in top 5% on LeetCode with 300+ problems solved) Tj
+0 -15 Td
+(• Winner of College Hackathon 2024) Tj
+0 -15 Td
+(• Published research paper on Machine Learning applications) Tj
+0 -15 Td
+(• Active contributor to open-source projects on GitHub) Tj
+
+0 -40 Td
+/F2 10 Tf
+(Note: This is a placeholder resume. Please replace with actual resume content.) Tj
+
+ET
+endstream
+endobj
+
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+
+7 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000225 00000 n 
+0000000279 00000 n 
+0000003131 00000 n 
+0000003206 00000 n 
+trailer
+<<
+/Size 8
+/Root 1 0 R
+>>
+startxref
+3276
+%%EOF
